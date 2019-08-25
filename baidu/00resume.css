@@ -1,0 +1,131 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.clear {
+    clear:both;
+}
+
+.resume1 {
+    width: 1400px;
+    height: 900px;
+    margin: 0 auto;
+}
+
+.resume1 * {
+    margin-bottom:20px; 
+}
+
+.blue {
+    width: 20%;
+    height: 900px;
+    float: left;
+    background-color: rgb(108, 108, 218);
+    text-align: center;
+}
+
+.blue h1 {
+    color: white;
+    margin-top: 100px;
+
+}
+
+.content1 {
+    width: auto;
+    margin-left: 50px;
+    margin-top: 30px;
+    float: left;
+}
+
+.info1 *{
+    float: left;
+}
+
+.info1 b {
+    margin-right: 10px;
+}
+
+.info1 p {
+    margin-right: 30px;
+}
+
+.contact1 * {
+    float: left;
+}
+
+.contact1 b {
+    margin-right: 10px;
+}
+
+.contact1 p {
+    margin-right: 30px;
+}
+
+.description1 p {
+    margin-top: 10px;
+}
+
+.kong {
+    height: 100px;
+}
+
+.resume2 {
+    margin: 0 auto;
+    width: 1400px;
+}
+
+.top {
+    background-color: gray;
+    width: auto;
+    height: 50px;
+    color: white;
+    line-height: 50px;
+}
+
+.top b {
+    margin-left:20px; 
+}
+
+.content2 {
+    height: 100px;
+}
+
+.part1 {
+    background-color: rgb(201, 201, 201);
+    height: 99px;
+    width: 100px;
+    float: left;
+    border-bottom:1px white solid; 
+    line-height: 99px;
+    text-align: center;
+}
+
+.part2, 
+.part3 {
+    float: left;
+    width: 1289px;
+    height: 89px;
+    border-bottom:1px rgb(201, 201, 201) solid; 
+    border-right:1px rgb(201, 201, 201) solid;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.part2 *{
+    float: left;
+}
+
+.part2 b,
+.part3 b {
+    margin-right: 10px;
+}
+
+.part2 p,a {
+    margin-right: 30px;
+}
+
+.part3 b,p {
+    float: left;
+}
+
