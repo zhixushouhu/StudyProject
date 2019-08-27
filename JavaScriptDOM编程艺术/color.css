@@ -1,0 +1,15 @@
+body {
+    background-color:rgb(207, 177, 121);
+}
+
+header nav{
+    background-color: rgb(72, 72, 158);
+}
+
+header a {
+    color: white;
+}
+
+article {
+    background-color: rgb(155, 197, 92);
+}

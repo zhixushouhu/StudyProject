@@ -1,0 +1,51 @@
+body {
+    width: 1500px;
+    margin: 0 auto;
+    margin-top: 10px;
+    border: 1px rgb(255, 0, 43) solid;
+}
+
+.pic4 {
+    float: left;
+}
+
+.pic5 {
+    float: left;
+}
+
+.logo {
+    width: 500px;
+    height: 500px;
+    background-image: url("../../img/006.jpg");
+    float: left;
+}
+
+header img {
+    display: block;
+}
+
+header nav li {
+    display: inline;
+}
+
+header nav li a {
+    font-size: 30px;
+    text-decoration: none;
+    border-left: 1px white solid;
+    border-right: 1px white solid;
+    padding: 0 30px; 
+}
+
+.slide {
+    width: 200px;
+    height: 200px;
+    border-radius: 30px;
+    border: 1px white solid;
+}
+
+.fullsize {
+    width: 500px;
+    height: 500px;
+    border-radius: 30px;
+    border: 1px white solid;
+}
