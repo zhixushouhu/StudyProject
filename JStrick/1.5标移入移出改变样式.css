@@ -1,0 +1,11 @@
+.test {
+    width: 200px;
+    height: 200px;
+    margin: 100px auto;
+    border: 5px black solid;
+}
+
+.test:hover {
+    background-color: red;
+    cursor: crosshair;
+}

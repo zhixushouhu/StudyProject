@@ -1,0 +1,22 @@
+.outer {
+   width: 726px;
+   height: 400px;
+   margin: 0 auto;
+   border: 1px black solid; 
+}
+
+.test {
+    border: 1px black solid;
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin: 20px 20px;
+}
+
+button {
+    margin: 280px auto;
+    display: block;
+    width: 100px;
+    height: 50px;
+}
+
