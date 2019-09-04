@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+}
+
+body {
+    width: 60%;
+    height: 100%;
+    margin: 0 auto;
+    background-color: rgb(255, 132, 132);
+}
+
+li {
+    display: inline;
+}
+
+button {
+    height: 50px;
+    width: 50px;
+}
+
+button:hover {
+    border: 2px black solid;
+}
+
+.red {
+    background-color: rgb(255, 132, 132);
+}
+
+.green {
+    background-color: rgb(142, 255, 132);
+}
+
+.blue {
+    background-color: rgb(132, 165, 255);
+}
+
+#nav {
+    border: 2px black solid;
+}
+
+#nav ul li {
+    margin: 0 20px;
+     
+}
